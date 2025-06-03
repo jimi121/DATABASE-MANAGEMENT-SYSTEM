@@ -2,7 +2,7 @@
 
 **LibrarySync** is my SQL-powered library management system, designed to streamline the operations of a modern library. From managing books, members, and employees to generating insightful reports, this project showcases my skills in database design, CRUD operations, advanced querying, and automation through stored procedures. I built this system to feel dynamic and practical, like a real library bustling with activity. The database is structured for data integrity, and the queries provide actionable insights into library performance.
 
-![Library Image](https://images.unsplash.com/photo-1507842217343-583bb7278e97?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+![Library Image](https://github.com/jimi121/DATABASE-MANAGEMENT-SYSTEM/blob/main/LibrarySync%20SQL%20Database%20Management%20System/Library%20Image.jpeg)
 
 ## Objectives
 
@@ -390,7 +390,7 @@ SELECT * FROM branch_reports;
 
 1. **Clone the Repository**: Download the project files.
    ```sh
-   git clone https://github.com/your-username/LibrarySync-SQL-Project.git
+   git clone https://github.com/jimi121/LibrarySync-SQL-Project.git
    ```
 2. **Set Up the Database**: Execute `SQL SCHEMA.sql` and `INSERT DATA.sql` to create and populate the database.
 3. **Run Queries**: Use `SQL QUERY.sql` to perform the tasks and explore results.
