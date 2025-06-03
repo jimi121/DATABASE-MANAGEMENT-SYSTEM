@@ -17,7 +17,7 @@
 
 The `library_sync_db` database comprises six core tables, designed with primary and foreign keys to ensure data integrity. The schema links books to issuance records, employees to branches, and members to issued books, capturing the essence of library operations. Below is the Entity-Relationship Diagram (ERD) and a sample of the schema:
 
-![Library ERD](https://github.com/your-username/LibrarySync-SQL-Project/blob/main/library_erd.png)
+![Library ERD](https://github.com/jimi121/DATABASE-MANAGEMENT-SYSTEM/blob/main/LibrarySync%20SQL%20Database%20Management%20System/ERR%20Diagram.PNG)
 
 ```sql
 CREATE DATABASE library_sync_db;
